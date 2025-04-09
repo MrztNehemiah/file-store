@@ -1,0 +1,7 @@
+__pycashe__/
+*.pyc
+*.env
+.env
+venv/
+myvenv/
+*.pem
